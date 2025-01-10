@@ -1,1 +1,1 @@
-# Supplier-Quality-and-Performance
+# Supplier Quality and Performance
