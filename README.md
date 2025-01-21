@@ -33,3 +33,22 @@ To address these challenges, the following key questions need to be answered:
 - Is there a particular combination of material and vendor that performs poorly?
 - Is there a particular combination of vendor and plant that performs poorly?
 - How does the same vendor and material perform across different plants?
+
+## Dataset Overview
+### Dataset Details
+The dataset provided for this analysis is in Excel format (.xlsx) and contains a single table with 9 columns and 5,226 rows. It provides essential data on supplier performance, capturing key aspects across various dimensions:
+
+- Date: The date the data was recorded (e.g., 3/18/2018).
+- Vendor: The name of the supplier (e.g., BrowseBug, TopicZoom).
+- Plant Location: The location of the plant receiving the materials (e.g., Westside, Frazer).
+- Category: The category of the materials (e.g., Mechanical, Logistics).
+- Material Type: The type of material supplied (e.g., Glass, Raw Materials, Cartons).
+- Defect Type: The classification of the defect (e.g., Impact, No-Impact, Rejected).
+- Defect: A description of the defect (e.g., Bad seams, Wrong material).
+- Total Defect Quantity: The number of defective materials recorded.
+- Total Downtime (minutes): The total downtime caused by defective materials, measured in minutes.
+  
+### Dataset Download Link
+To access the dataset, click here.
+
+
