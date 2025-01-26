@@ -93,10 +93,24 @@ Below is a visual representation of the final fact table created:
 ![Fact Table Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/fact_table.png)
 
 ### Data Modeling 
-After loading the cleaned and transformed data back into Power BI, a date calendar was created using the CALENDARAUTO() DAX function. This date table was essential for enabling time-based analysis, such as tracking trends over specific periods.
-Below is a screenshot of the CALENDARAUTO date table created for the project:
+After loading the cleaned and transformed data back into Power BI, a date table was created using the following DAX formula:
 
+Date = ADDCOLUMNS(
 
-The fact table, along with the dimension tables and the date calendar, was used to build a data model. A star schema was designed to ensure simplicity and efficiency in querying the data. The fact table contained metrics such as Total Defect Quantity and Total Downtime, as well as foreign keys linking to the dimension tables. The dimension tables held unique categorical data with their primary keys, such as Vendor, Plant Location, and Material Type. The date table was connected to the fact table via the Date field, enabling one-to-many relationships between the tables.
-
-The final data model is shown below:
+    CALENDARAUTO(),
+    
+    "Year", YEAR([Date]),
+    
+    "Quarter", QUARTER([Date]),
+    
+    "Month", MONTH([Date]),
+    
+    "Month Name", FORMAT([Date], "mmmm"),
+    
+    "Month Name Short", FORMAT([Date], "mmm"),
+    "Day", DAY([Date]),
+    "Day of the Week", WEEKDAY([Date]),
+    "Day of Week Name", FORMAT([Date], "dddd"),
+    "Week of Year", WEEKNUM([Date]),
+    "Is Weekend", IF(WEEKDAY([Date]) IN {1, 7}, TRUE, FALSE)
+)
