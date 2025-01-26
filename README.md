@@ -114,3 +114,48 @@ Date = ADDCOLUMNS(
     "Week of Year", WEEKNUM([Date]),
     "Is Weekend", IF(WEEKDAY([Date]) IN {1, 7}, TRUE, FALSE)
 )
+
+This formula uses the CALENDARAUTO() function to automatically generate a date table based on the minimum and maximum dates in the dataset. Additional columns were added to the table to enable granular time-based analysis, including:
+
+- Year: Extracts the year from each date.
+
+- Quarter: Identifies the quarter of the year (1–4).
+  
+- Month: Extracts the numerical representation of the month (1–12).
+  
+- Month Name: Returns the full name of the month (e.g., "January").
+  
+- Month Name Short: Provides a short form of the month (e.g., "Jan").
+  
+- Day: Extracts the day of the month.
+  
+- Day of the Week: Provides the numerical day of the week (1 for Sunday, 7 for Saturday).
+  
+- Day of Week Name: Returns the full name of the weekday (e.g., "Monday").
+  
+- Week of Year: Returns the week number within the year.
+ 
+- Is Weekend: Flags whether the date falls on a weekend day, based on the typical weekend days (e.g., Saturday and Sunday, or Friday and Saturday in some regions). It returns TRUE for weekends and FALSE for weekdays.
+
+This table serves as the backbone for time intelligence analysis, enabling the calculation of trends, seasonality, and other date-related insights.
+
+The date table was then connected to the fact table via the Date field to establish one-to-many relationships within the data model.
+
+### Star Schema Design
+The data model was built using a star schema to ensure simplicity and efficiency in querying. This design included:
+
+- Fact Table(Supplier Fact)contained metrics such as Total Defect Quantity,Total Downtime, foreign keys and the Date field.
+
+- Dimension Tables held unique categorical data with their primary keys, such as Vendor, Plant Location, Material Type and other relevant attributes
+  
+These tables enabled easier filtering and grouping of data for in-depth analysis.
+
+### Data Model Diagram
+The relationship between the tables was defined as follows:
+
+- The Fact Table served as the central table, connecting to each dimension table via foreign keys.
+- A one-to-many relationship was established between the Date Table and the Fact Table to support time intelligence.
+  
+To illustrate the data model structure, the diagram below provides a visual representation of the star schema design:
+
+![Data Model](path_to_your_image.png)
