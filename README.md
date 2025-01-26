@@ -52,5 +52,44 @@ The dataset provided for this analysis is in Excel format (.xlsx) and contains a
 To access the dataset, click [**here**](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/supplier%20data.xlsx)
 
 ## Data Cleaning and Transformation
+The dataset was imported into Power Query Editor in Power BI for cleaning and transformation. Upon inspection, the data was found to be clean and required no additional cleaning steps. The focus of the transformation phase was to prepare the data for analysis by building a data model through data normalization.
+
+### Data Normalization
+Data normalization was necessary to improve data integrity and reduce redundancy. The process involved splitting the single table into smaller, related tables categorized as fact and dimension tables. This was appropriate since the dataset primarily consisted of categorical fields (e.g., Vendor, Plant Location, Category, Material Type), two quantitative fields (Total Defect Quantity and Total Downtime) and a date field.
+
+### Steps in the Data Transformation Process
+
+1. **Duplicating the Original Table**
+Each dimension table was created by duplicating the original table. This allowed the isolation of specific fields needed for dimensional analysis.
+
+2. **Creating Dimension Tables**
+For each dimension table:
+- Unnecessary columns were removed, leaving only the relevant field for that dimension.
+- Duplicate rows were removed to ensure unique entries.
+- An Index Column was added to serve as the Primary Key for the dimension table
+
+3. **Creating the Fact Table**
+The original table served as the foundation for the fact table.
+
+To construct the fact table:
+
+- Each dimension table was merged with the original table using the Merge Queries function, applying an Inner Join on the related columns.
+- The primary keys from the dimension tables were brought into the fact table as foreign keys.
+  
+The resulting fact table included:
+- Numerical data (metrics): Total Defect Quantity and Total Downtime.
+- Foreign keys: Linking the fact table to the respective dimension tables.
+- Date column: Retained in the fact table to enable time-based analysis.
+This structure ensures the fact table is optimized for analytical purposes, with clear relationships to the dimension tables.
+
+The final data model consisted of:
+
+**Dimension Tables**: Containing unique values for each categorical field, along with their primary keys.
+
+**Fact Table**: Including the date field, metrics (e.g., Total Defect Quantity, Total Downtime), and foreign keys to establish connections with the dimension tables.
+
+Below is a visual representation of the final fact table created:
+
+![Fact Table Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/fact_table_screenshot.png)
 
 
