@@ -158,4 +158,4 @@ The relationship between the tables was defined as follows:
   
 To illustrate the data model structure, the diagram below provides a visual representation of the star schema design:
 
-![Data Model](path_to_your_image.png)
+![Data Model](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/data_model.png)
