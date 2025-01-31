@@ -160,4 +160,14 @@ To illustrate the data model structure, the diagram below provides a visual repr
 
 ![Data Model](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/data_model.png)
 
+
 ## Data Analysis and Visualization
+After preparing and modeling the supplier data, various DAX measures were created to facilitate a comprehensive analysis of key business drivers like defect quantity, downtime, and defect reports. To centralize all critical KPIs, a Dedicated Measures Table was created.
+
+The focus was on developing Base Measures and context-specific measures that support time-intelligence calculations and provide in-depth insights. These Base Measures include foundational metrics such as Total Defect Quantity, Total Downtime Minutes, and Total Defect Reports. These measures serve as the core components for calculating key insights across the dataset.
+
+In addition to the Base Measures, a wide range of Context Measures were developed to offer a more granular analysis over time. These measures are essential for identifying trends, comparing different periods, and gaining insights into long-term performance. Examples include metrics like Defect Quantity SPLY (Same Period Last Year), MOM Growth in Defect Quantity, and Total Downtime Hours.
+
+**Note**: These are just a few examples of the many measures created. The full set of measures is extensive, encompassing various time-intelligence and context-specific calculations to allow for deep and dynamic analysis across different business dimensions.
+
+To enhance the interactivity and customization of the analysis, interactive parameters were implemented. These parameters allow for dynamic filtering and ranking, enabling users to drill into specific areas of interest such as plants and vendors.
