@@ -174,9 +174,10 @@ To enhance the interactivity and customization of the analysis, interactive para
 
 With the measures and parameters in place, the next step is to address some of the key business questions that the organization is looking to answer through this analysis.
 
-**Which vendors/plants are causing the greatest defect quantity?**
+1. **Which vendors/plants are causing the greatest defect quantity?**
 
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
+
 
 
 
