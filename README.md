@@ -178,7 +178,10 @@ With the measures and parameters in place, the next step is to address some of t
 
 
 
+
+
 [Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
+
 
 
 
