@@ -176,7 +176,7 @@ With the measures and parameters in place, the next step is to address some of t
 
 **Which vendors/plants are causing the greatest defect quantity?**
 
-![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/fact_table.png)
+![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
 
 
 
