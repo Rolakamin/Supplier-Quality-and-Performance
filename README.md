@@ -171,3 +171,16 @@ In addition to the Base Measures, a wide range of Context Measures were develope
 **Note**: These are just a few examples of the many measures created. The full set of measures is extensive, encompassing various time-intelligence and context-specific calculations to allow for deep and dynamic analysis across different business dimensions.
 
 To enhance the interactivity and customization of the analysis, interactive parameters were implemented. These parameters allow for dynamic filtering and ranking, enabling users to drill into specific areas of interest such as plants and vendors.
+
+With the measures and parameters in place, the next step is to address some of the key business questions that the organization is looking to answer through this analysis.
+
+**Which vendors/plants are causing the greatest defect quantity?**
+
+
+
+[Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
+
+
+
+
+   
