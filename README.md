@@ -178,6 +178,11 @@ With the measures and parameters in place, the next step is to address some of t
 
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
 
+![Plant Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
+
+
+
+
 
 
 
