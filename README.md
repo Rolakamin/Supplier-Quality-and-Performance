@@ -223,6 +223,11 @@ The top three plant locations with the highest defect quantities were **Hingham,
 ### Vendor Performance(Downtime)  
 
 
+![Vendor Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
+
+![Plant Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
+
+
 
 
 
