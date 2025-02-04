@@ -200,10 +200,25 @@ Considering the top three vendors with the highest defect quantities:
 > - **Rejected Defects** indicate products that failed quality inspections and were deemed unsuitable for use or sale.
 
 
+### Plant Performance  
 
 
 ![Plant Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant_Performance.png)
 
+
+The top three plant locations with the highest defect quantities were **Hingham, Charles City, and Twin Rocks**.  
+- **Hingham** recorded a total of **100,174,656 defects**, consisting of **31,887,726 Impact defects**, **37,644,983 No Impact defects**, and **30,641,947 Rejected defects**.  
+- **Charles City** followed with **99,390,908 defects**, including **42,255,529 Impact defects**, **32,366,660 No Impact defects**, and **24,768,719 Rejected defects**.  
+- **Twin Rocks** reported **96,903,184 defects**, comprising **23,959,898 Impact defects**, **43,480,484 No Impact defects**, and **29,462,802 Rejected defects**.  
+
+#### Observations:
+- **Charles City** had the highest number of **Impact defects**, indicating more defects that directly affect product functionality.  
+- **Twin Rocks** recorded the highest **No Impact defects**, suggesting that many of its defects may not affect usability but could be cosmetic or minor in nature.  
+- **Hingham** had a relatively balanced distribution of defect types but reported a **high number of Rejected defects**, which could indicate a significant quality concern.  
+
+*(Refer to the Vendor Performance section for definitions of defect categories.)*
+
+2. **Which vendors/plants are causing the greatest downtime?**
 
 
 
