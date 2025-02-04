@@ -176,10 +176,13 @@ With the measures and parameters in place, the next step is to address some of t
 
 1. **Which vendors/plants are causing the greatest defect quantity?**
 
+### Vendor Performance  
+
+
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
 
 
-### Vendor Performance  
+
 
 The top three vendors with the highest defect quantities were **Yombu, Avamm, and Meejo**.  
 - **Yombu** recorded a total of **15,136,374 defects**, consisting of **6,030,186 Impact defects**, **4,304,642 No Impact defects**, and **4,801,546 Rejected defects**.  
@@ -195,6 +198,8 @@ Considering the top three vendors with the highest defect quantities:
 > - **Impact Defects** refer to defects that affect the product’s functionality or performance.  
 > - **No Impact Defects** are defects that do not necessarily hinder the product's usability but may still affect its aesthetics or minor attributes.  
 > - **Rejected Defects** indicate products that failed quality inspections and were deemed unsuitable for use or sale.
+
+
 
 
 ![Plant Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant_Performance.png)
