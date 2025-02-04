@@ -178,7 +178,28 @@ With the measures and parameters in place, the next step is to address some of t
 
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
 
+
+### Vendor Performance  
+
+The top three vendors with the highest defect quantities were **Yombu, Avamm, and Meejo**.  
+- **Yombu** recorded a total of **15,136,374 defects**, consisting of **6,030,186 Impact defects**, **4,304,642 No Impact defects**, and **4,801,546 Rejected defects**.  
+- **Avamm** followed closely with **14,719,726 defects**, including **3,316,369 Impact defects**, **4,681,291 No Impact defects**, and **6,722,066 Rejected defects**.  
+- **Meejo** reported **14,206,469 defects**, comprising **5,204,943 Impact defects**, **6,311,186 No Impact defects**, and **2,690,340 Rejected defects**.  
+
+Considering the top three vendors with the highest defect quantities:  
+- **Yombu** had the highest total defect quantity, with **Impact defects** making up the largest proportion.  
+- **Avamm** had the most defects categorized as **Rejected**, suggesting that a significant portion of its defective products failed to meet quality standards and were not accepted for use or sale.  
+- **Meejo** had the highest number of **No Impact defects**, indicating that more of its defects did not necessarily affect product functionality.  
+
+> **Note:**  
+> - **Impact Defects** refer to defects that affect the product’s functionality or performance.  
+> - **No Impact Defects** are defects that do not necessarily hinder the product's usability but may still affect its aesthetics or minor attributes.  
+> - **Rejected Defects** indicate products that failed quality inspections and were deemed unsuitable for use or sale.
+
+
 ![Plant Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant_Performance.png)
+
+
 
 
 
