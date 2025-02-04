@@ -176,7 +176,7 @@ With the measures and parameters in place, the next step is to address some of t
 
 1. **Which vendors/plants are causing the greatest defect quantity?**
 
-### Vendor Performance  
+### Vendor Performance(Defect Quantity)  
 
 
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
@@ -200,7 +200,7 @@ Considering the top three vendors with the highest defect quantities:
 > - **Rejected Defects** indicate products that failed quality inspections and were deemed unsuitable for use or sale.
 
 
-### Plant Performance  
+### Plant Performance(Defect Quantity)
 
 
 ![Plant Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant_Performance.png)
@@ -219,6 +219,10 @@ The top three plant locations with the highest defect quantities were **Hingham,
 *(Refer to the Vendor Performance section for definitions of defect categories.)*
 
 2. **Which vendors/plants are causing the greatest downtime?**
+
+### Vendor Performance(Downtime)  
+
+
 
 
 
