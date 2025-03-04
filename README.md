@@ -292,6 +292,17 @@ Downtime Cost per Hour: $2,449.50
 
 **Insight**: The **Wikido-Middletown** combination resulted in significant downtime and cost, even though the defect count wasn’t the highest. This suggests that defects from this **vendor-plant** pair likely caused more severe disruptions to operations, requiring more time and resources to resolve.
 
+**Additional Observations**
+
+**Material Downtime Impact**:
+
+- All materials with defects were supplied by different vendors, except for Printed Materials (Vendor: Eayo) and Wires (Vendor: Digitube), which had only one vendor each.
+This suggests that no single vendor dominates material-related defects, but some materials, like Corrugate, had a much greater impact on downtime.
+Plant Downtime Impact:
+
+- Multiple plants experienced downtime (e.g., Westside, Twin Rocks, Savannah, Riverside, Middletown, etc.), with different vendors linked to each plant.
+This suggests that downtime issues are not isolated to specific plants or vendors but are widespread across the supply chain.
+
 
 
 
