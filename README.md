@@ -178,7 +178,8 @@ With the measures and parameters in place, the next step is to address some of t
 
 1. **Which vendors/plants are causing the greatest defect quantity?**
 
-### Vendor Performance(Defect Quantity)  
+### Vendor Performance(Defect Quantity)
+---------------------------------------
 
 
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
