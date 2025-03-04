@@ -265,7 +265,7 @@ The top three plants responsible for the greatest downtime were **Riverside, Cha
  4. **Is there a particular combination of vendor and plant that performs poorly?**
 
 
-![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
+![Downtime Impact Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/downtime_impact.png)
 
  
 
