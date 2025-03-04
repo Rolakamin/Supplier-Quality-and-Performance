@@ -268,6 +268,31 @@ The top three plants responsible for the greatest downtime were **Riverside, Cha
 ![Downtime Impact Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/downtime_impact.png)
 
 
+**Poorly Performing Vendor-Material Combination**
+
+**Vendor-Material Pair**: Feedfire - Corrugate
+
+**Key Metrics:**
+
+Defects: 4,865,911 (not the highest among vendor-material combinations)
+Downtime Hours: 568.23 (highest)
+Downtime Cost per Hour: $5,682.33 (highest)
+
+**Insight**: Despite other **vendor-material combinations** having higher defect counts, the **Feedfire-Corrugate combination** caused the most downtime and highest downtime cost per hour, indicating a strong correlation between downtime and cost.This suggests that defects in Corrugate may be particularly disruptive, leading to extended delays and higher operational costs
+
+**Poorly Performing Vendor-Plant Combination**
+
+**Vendor-Plant Pair**: Wikido - Middletown
+
+**Key Metrics:**
+
+Defects: 1,470,666 (not the highest)
+Downtime Hours: 244.95
+Downtime Cost per Hour: $2,449.50
+
+**Insight**: The **Wikido-Middletown** combination resulted in significant downtime and cost, even though the defect count wasn’t the highest. This suggests that defects from this **vendor-plant** pair likely caused more severe disruptions to operations, requiring more time and resources to resolve.
+
+
 
 
  
