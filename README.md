@@ -267,6 +267,9 @@ The top three plants responsible for the greatest downtime were **Riverside, Cha
 
 ![Downtime Impact Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/downtime_impact.png)
 
+
+
+
  
 
 
