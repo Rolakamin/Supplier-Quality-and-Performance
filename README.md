@@ -232,7 +232,6 @@ The **top three vendors** responsible for the **greatest downtime** were **Avamm
 
 #### Observations:
 
-Observations
 - **Avamm** had the most total downtime, with significant delays caused by **No Impact and Rejected defects**. This suggests that while some defects did not affect product functionality, they still caused production delays, and many defective products failed quality checks, which may have led to finding new materials or suppliers."
 
 - **Izio’s** downtime was largely due to **No Impact defects**, indicating that many of its defects did not hinder product performance but still disrupted production, likely due to rework, inspections, or delays in finding alternatives.
