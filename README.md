@@ -261,7 +261,7 @@ The top three plants responsible for the greatest downtime were **Riverside, Cha
 
   2. **Is there a particular combination of material and vendor that performs poorly?**
 
-  3. ****
+  3. **Is there a particular combination of vendor and plant that performs poorly?**
  
 
 
