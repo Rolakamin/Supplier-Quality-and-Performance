@@ -239,16 +239,17 @@ The **top three vendors** responsible for the **greatest downtime** were **Avamm
 - Meetz experienced the most downtime from **Impact defects**, meaning its defects directly affected product functionality, leading to major operational disruptions.
 
 
-
-
-
-
-
-
-
-
-
 ![Plant Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant%20performance(downtime).png)
+
+### Plant Performance(Downtime)
+
+
+
+
+
+
+
+
 
 
 
