@@ -222,8 +222,13 @@ The **top three plant locations with the highest defect quantities** were **Hing
    
 ![Vendor Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor%20performance(downtime).png)
 
-### Vendor Performance(Downtime)  
-The **top three vendors** responsible for the **greatest downtime** were **Avamm, Izio, and Meetz**. **Avamm** recorded the **highest downtime**, totaling approximately **1,165 hours**, with **226.68 hours** attributed to **Impact Defects**, **463.85 hours** to **No Impact Defects**, and **474.28 hours** to **Rejected Defects**. **Izio** followed closely with **1,144 downtime hours**, consisting of **230.12 hours** from **Impact Defects**, **517.67 hours** from **No Impact Defects**, and **395.78 hours** from **Rejected Defects**. **Meetz** ranked **third**, with **1,134 downtime hours**, including **297.50 hours** from **Impact Defects**, **480.86 hours** from **No Impact Defects**, and **355.97 hours** from **Rejected Defects**.
+### Vendor Performance(Downtime) 
+
+The **top three vendors** responsible for the **greatest downtime** were **Avamm, Izio, and Meetz**.
+
+- **Avamm** recorded the **highest downtime**, totaling approximately **1,165 hours**, with **226.68 hours** attributed to **Impact Defects**, **463.85 hours** to **No Impact Defects**, and **474.28 hours** to **Rejected Defects**.
+- **Izio** followed closely with **1,144 downtime hours**, consisting of **230.12 hours** from **Impact Defects**, **517.67 hours** from **No Impact Defects**, and **395.78 hours** from **Rejected Defects**. --- 
+- **Meetz** ranked **third**, with **1,134 downtime hours**, including **297.50 hours** from **Impact Defects**, **480.86 hours** from **No Impact Defects**, and **355.97 hours** from **Rejected Defects**.
 
 #### Observations:
 
