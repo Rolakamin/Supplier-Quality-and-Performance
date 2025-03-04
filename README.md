@@ -298,7 +298,8 @@ Downtime Cost per Hour: $2,449.50
 
 - All materials with defects were supplied by different vendors, except for Printed Materials (Vendor: Eayo) and Wires (Vendor: Digitube), which had only one vendor each.
 This suggests that no single vendor dominates material-related defects, but some materials, like Corrugate, had a much greater impact on downtime.
-Plant Downtime Impact:
+
+**Plant Downtime Impact**:
 
 - Multiple plants experienced downtime (e.g., Westside, Twin Rocks, Savannah, Riverside, Middletown, etc.), with different vendors linked to each plant.
 This suggests that downtime issues are not isolated to specific plants or vendors but are widespread across the supply chain.
