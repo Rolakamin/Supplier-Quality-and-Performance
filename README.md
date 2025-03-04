@@ -179,7 +179,6 @@ With the measures and parameters in place, the next step is to address some of t
 1. **Which vendors/plants are causing the greatest defect quantity?**
 
 ### Vendor Performance(Defect Quantity)
-=======================================
 
 
 ![Vendor Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor_%20performance.png)
@@ -269,7 +268,7 @@ The top three plants responsible for the greatest downtime were **Riverside, Cha
 ![Downtime Impact Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/downtime_impact.png)
 
 
-**Poorly Performing Vendor-Material Combination**
+### Poorly Performing Vendor-Material Combination
 
 **Vendor-Material Pair**: Feedfire - Corrugate
 
@@ -281,7 +280,7 @@ Downtime Cost per Hour: $5,682.33 (highest)
 
 **Insight**: Despite other **vendor-material combinations** having higher defect counts, the **Feedfire-Corrugate combination** caused the most downtime and highest downtime cost per hour, indicating a strong correlation between downtime and cost.This suggests that defects in Corrugate may be particularly disruptive, leading to extended delays and higher operational costs
 
-**Poorly Performing Vendor-Plant Combination**
+### Poorly Performing Vendor-Plant Combination
 
 **Vendor-Plant Pair**: Wikido - Middletown
 
@@ -293,7 +292,7 @@ Downtime Cost per Hour: $2,449.50
 
 **Insight**: The **Wikido-Middletown** combination resulted in significant downtime and cost, even though the defect count wasn’t the highest. This suggests that defects from this **vendor-plant** pair likely caused more severe disruptions to operations, requiring more time and resources to resolve.
 
-**Additional Observations**
+### Additional Observations
 
 **Material Downtime Impact**:
 
