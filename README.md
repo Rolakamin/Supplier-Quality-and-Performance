@@ -214,6 +214,7 @@ The **top three plant locations with the highest defect quantities** were **Hing
 - **Twin Rocks** reported **96,903,184 Defects**, comprising **23,959,898 Impact Defects**, **43,480,484 No Impact Defects**, and **29,462,802 Rejected Defects**.  
 
 #### Observations:
+
 - **Charles City** had the highest number of **Impact defects**, indicating more defects that directly affect product functionality.  
 - **Twin Rocks** recorded the highest **No Impact defects**, suggesting that many of its defects may not affect usability but could be cosmetic or minor in nature.  
 - **Hingham** had a relatively balanced distribution of defect types but reported a **high number of Rejected defects**, which could indicate a significant quality concern.  
@@ -244,6 +245,19 @@ The **top three vendors** responsible for the **greatest downtime** were **Avamm
 ![Plant Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant%20performance(downtime).png)
 
 ### Plant Performance(Downtime)
+
+The top three plants responsible for the greatest downtime were **Riverside, Charles City, and Twin Rocks**.
+
+- **Riverside** recorded the highest downtime, totaling approximately **8,598 hours**, with **2,788.03 hours** attributed to **Impact Defects**, **3,550.20 hours** to **No Impact defects**, and **2,259.62 hours** to **Rejected defects**.
+- **Charles City** followed with approximately **8,283 downtime hours**, consisting of **3,657.08 hours** from **Impact Defects**, **2,493.23 hours** from **No Impact defects**, and **2,132.78 hours** from **Rejected defects**.
+- **Twin Rocks** ranked third, with approximately **8,001 downtime hours**, including **2,161.73 hours** from **Impact Defects**, **3,272.12 hours** from **No Impact defects**, and **2,566.85 hours** from **Rejected defects**.
+
+#### Observations:
+  
+- **Riverside** had the most downtime due to **No Impact Defects**, meaning many defective products did not affect functionality but still caused delays.
+- **Charles City** had the most downtime from **Impact Defects**, suggesting its defects were more severe and directly disrupted production.
+- **Twin Rocks** experienced frequent production disruptions due to **No Impact Defects** that caused delays and **Rejected Defects** that failed quality checks and required replacements.
+- **Rejected Defects** caused major delays at **Twin Rocks and Riverside**, likely requiring rework or replacements.
 
 
 
