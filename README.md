@@ -258,6 +258,7 @@ The top three plants responsible for the greatest downtime were **Riverside, Cha
 - **Charles City** had the most downtime from **Impact Defects**, suggesting its defects were more severe and directly disrupted production.
 - **Twin Rocks** experienced frequent production disruptions due to **No Impact Defects** that caused delays and **Rejected Defects** that failed quality checks and required replacements.
 - **Rejected Defects** caused major delays at **Twin Rocks and Riverside**, likely requiring rework or replacements.
+  
 
  3. **Is there a particular combination of material and vendor that performs poorly?**
 
