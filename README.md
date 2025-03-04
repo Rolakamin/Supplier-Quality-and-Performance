@@ -184,7 +184,7 @@ With the measures and parameters in place, the next step is to address some of t
 
 
 
-The top three vendors with the highest defect quantities were **Yombu, Avamm, and Meejo**.  
+The **top three vendors** with the **highest defect quantities** were **Yombu, Avamm, and Meejo**.  
 - **Yombu** recorded a total of **15,136,374 defects**, consisting of **6,030,186 Impact defects**, **4,304,642 No Impact defects**, and **4,801,546 Rejected defects**.  
 - **Avamm** followed closely with **14,719,726 defects**, including **3,316,369 Impact defects**, **4,681,291 No Impact defects**, and **6,722,066 Rejected defects**.  
 - **Meejo** reported **14,206,469 defects**, comprising **5,204,943 Impact defects**, **6,311,186 No Impact defects**, and **2,690,340 Rejected defects**.  
@@ -206,10 +206,10 @@ Considering the top three vendors with the highest defect quantities:
 ![Plant Performance Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant_Performance.png)
 
 
-The top three plant locations with the highest defect quantities were **Hingham, Charles City, and Twin Rocks**.  
-- **Hingham** recorded a total of **100,174,656 defects**, consisting of **31,887,726 Impact defects**, **37,644,983 No Impact defects**, and **30,641,947 Rejected defects**.  
-- **Charles City** followed with **99,390,908 defects**, including **42,255,529 Impact defects**, **32,366,660 No Impact defects**, and **24,768,719 Rejected defects**.  
-- **Twin Rocks** reported **96,903,184 defects**, comprising **23,959,898 Impact defects**, **43,480,484 No Impact defects**, and **29,462,802 Rejected defects**.  
+The **top three plant locations with the highest defect quantities** were **Hingham, Charles City, and Twin Rocks**.  
+- **Hingham** recorded a total of **100,174,656 Defects**, consisting of **31,887,726 Impact Defects**, **37,644,983 No Impact Defects**, and **30,641,947 Rejected Defects**.  
+- **Charles City** followed with **99,390,908 Defects**, including **42,255,529 Impact Defects**, **32,366,660 No Impact Defects**, and **24,768,719 Rejected Defects**.  
+- **Twin Rocks** reported **96,903,184 Defects**, comprising **23,959,898 Impact Defects**, **43,480,484 No Impact Defects**, and **29,462,802 Rejected Defects**.  
 
 #### Observations:
 - **Charles City** had the highest number of **Impact defects**, indicating more defects that directly affect product functionality.  
@@ -219,11 +219,23 @@ The top three plant locations with the highest defect quantities were **Hingham,
 *(Refer to the Vendor Performance section for definitions of defect categories.)*
 
 2. **Which vendors/plants are causing the greatest downtime?**
+   
+![Vendor Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor%20performance(downtime).png)
 
 ### Vendor Performance(Downtime)  
+The **top three vendors** responsible for the **greatest downtime** were **Avamm, Izio, and Meetz**. **Avamm** recorded the **highest downtime**, totaling approximately **1,165 hours**, with **226.68 hours** attributed to **Impact Defects**, **463.85 hours** to **No Impact Defects**, and **474.28 hours** to **Rejected Defects**. **Izio** followed closely with **1,144 downtime hours**, consisting of **230.12 hours** from **Impact Defects**, **517.67 hours** from **No Impact Defects**, and **395.78 hours** from **Rejected Defects**. **Meetz** ranked **third**, with **1,134 downtime hours**, including **297.50 hours** from **Impact Defects**, **480.86 hours** from **No Impact Defects**, and **355.97 hours** from **Rejected Defects**.
+
+#### Observations:
 
 
-![Vendor Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/vendor%20performance(downtime).png)
+
+
+
+
+
+
+
+
 
 ![Plant Performance Downtime Screenshot](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/plant%20performance(downtime).png)
 
