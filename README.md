@@ -51,7 +51,7 @@ The dataset provided for this analysis is in Excel format (.xlsx) and contains a
 ### Dataset Download Link
 To access the dataset, click [**here**](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/supplier%20data.xlsx)
 
-**Note:** Clicking **"View Raw"** may automatically download the file.
+*Note:** *(Clicking **"View Raw"** may automatically download the file.)*
 
 ## Data Cleaning and Transformation
 The dataset was imported into Power Query Editor in Power BI for cleaning and transformation. Upon inspection, the data was found to be clean and required no additional cleaning steps. The focus of the transformation phase was to prepare the data for analysis by building a data model through data normalization.
