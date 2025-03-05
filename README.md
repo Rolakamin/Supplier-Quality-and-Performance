@@ -336,6 +336,15 @@ This suggests that downtime issues are not isolated to specific plants or vendor
    
 3. Some plants, like **Climax and Barling**, had **moderate** defect counts but relatively high downtime costs, possibly indicating inefficiencies beyond material defects, such as operational delays or process bottlenecks like labor shortages, production scheduling issues, etc.
 
+### Explore Interactive Report
+
+For a more interactive experience, explore the full report in Power BI Service using the link below:
+
+[Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
+
+
+
+
 
 
 
@@ -361,7 +370,6 @@ This suggests that downtime issues are not isolated to specific plants or vendor
 
 
 
-[Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
 
 
 
