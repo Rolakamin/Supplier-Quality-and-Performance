@@ -286,11 +286,13 @@ Downtime Cost per Hour: $5,682.33 (highest)
 
 **Key Metrics:**
 
-Defects: 1,470,666 (not the highest)
-Downtime Hours: 244.95
-Downtime Cost per Hour: $2,449.50
+- Highest Downtime Hours: 244.95
+- Highest Downtime Cost per Hour: $2,449.50
+- Defects: 1,470,666 (not the highest but still significant)
 
-**Insight**: The **Wikido-Middletown** combination resulted in significant downtime and cost, even though the defect count wasn’t the highest. This suggests that defects from this **vendor-plant** pair likely caused more severe disruptions to operations, requiring more time and resources to resolve.
+**Insight**:
+
+The **Wikido-Middletown combination** had the greatest downtime impact, with the highest total downtime hours and cost per hour. Although its defect count wasn't the highest, the defects from this vendor-plant pair likely caused severe operational disruptions, requiring more time and resources to resolve.
 
 ### Additional Observations
 
@@ -341,6 +343,30 @@ This suggests that downtime issues are not isolated to specific plants or vendor
 For a more interactive experience, explore the full report in Power BI Service using the link below:
 
 [Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
+
+## Key Findings / Observations
+
+1. Top Vendors with Defects: Yombu, Avamm, and Meejo had the highest defect quantities. Yombu had the most impact defects, Avamm had the most rejected 
+   defects, and Meejo had the most no-impact defects.
+
+2. Top Plants with Defects: Hingham, Charles City, and Twin Rocks recorded the most defects. Charles City had the highest impact defects, while Twin 
+   Rocks had the most no-impact defects.
+
+3. Downtime by Vendor: Avamm, Izio, and Meetz caused the most downtime. Avamm had the highest total downtime, mainly due to majorly rejected defects and 
+   no impact defects.
+
+4. Downtime by Plant: Riverside, Charles City, and Twin Rocks had the most downtime. Riverside had the highest delays from no-impact defects, while 
+   Charles City had the most from impact defects.
+
+5. Vendor-Material Issues: The Feedfire-Corrugate combination had the highest downtime and cost impact, despite not having the highest defect count.
+
+6. Vendor-Plant Issues: Wikido-Middletown had the highest downtime and cost, indicating that defects from this pair caused severe operational disruptions.
+
+7. Material Downtime Impact: Certain vendor-material pairs, including those involving Corrugate, had significant downtime impacts, but downtime was 
+   distributed across multiple materials and vendors.
+
+8. Plant Downtime Impact: Downtime issues were widespread across multiple plants and vendors, not limited to specific locations.
+
 
 
 
