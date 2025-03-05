@@ -311,6 +311,23 @@ This suggests that downtime issues are not isolated to specific plants or vendor
 
  ![Feedfire Corrugate Table](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/feedfire_corrugate_performance.png)
 
+### Key Observations
+
+**Defect Count:**
+
+- Highest: Savannah (2,531,447) and Garwood (1,375,971)
+- Lowest: New Britain (80,339)
+  
+**Downtime Hours:**
+
+- Highest: Savannah (127.72 hrs) and Weaverville (126.87 hrs)
+- Lowest: New Britain (1.02 hrs)
+  
+**Downtime Cost per Hour:**
+
+Highest: Savannah ($1,277.17/hr) and Weaverville ($1,268.67/hr)
+Lowest: New Britain ($10.17/hr)
+
 
 
 
