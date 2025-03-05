@@ -3,7 +3,8 @@
 ## Table of Contents
 
 -[Project Overview](#project-overview)
--[Data Source](#data-source)
+
+-[Business Objectives](#business-objectives)
 
 ## Project Overview
 Enterprise Manufacturers Ltd has been struggling to assess the quality of materials supplied by vendors and address the impact of defective materials on production processes. The absence of a centralized procurement system has made it challenging to evaluate supplier performance effectively.
