@@ -305,6 +305,11 @@ This suggests that no single vendor dominates material-related defects, but some
 This suggests that downtime issues are not isolated to specific plants or vendors but are widespread across the supply chain.
 
 5. **How does the same vendor and material perform across different plants?**
+   
+ Using Feedfire-Corrugate (the Vendor-Material combination with the highest downtime and highest downtime cost per hour) as a case study, we analyze its performance across different plants. The breakdown of its 
+ impact is summarized in the table below:  
+
+ ![Feedfire Corrugate Table](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/downtime_impact.png)
 
 
 
