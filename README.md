@@ -309,7 +309,7 @@ This suggests that downtime issues are not isolated to specific plants or vendor
  Using Feedfire-Corrugate (the Vendor-Material combination with the highest downtime and highest downtime cost per hour) as a case study, we analyze its performance across different plants. The breakdown of its 
  impact is summarized in the table below:  
 
- ![Feedfire Corrugate Table](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/downtime_impact.png)
+ ![Feedfire Corrugate Table](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/feedfire_corrugate_performance.png)
 
 
 
