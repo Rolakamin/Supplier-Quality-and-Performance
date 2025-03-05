@@ -304,6 +304,8 @@ This suggests that no single vendor dominates material-related defects, but some
 - Multiple plants experienced downtime (e.g., Westside, Twin Rocks, Savannah, Riverside, Middletown, etc.), with different vendors linked to each plant.
 This suggests that downtime issues are not isolated to specific plants or vendors but are widespread across the supply chain.
 
+5. **How does the same vendor and material perform across different plants?**
+
 
 
 
