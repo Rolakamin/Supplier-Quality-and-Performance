@@ -344,6 +344,7 @@ For a more interactive experience, explore the full report in Power BI Service u
 
 [Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
 
+
 ## Key Findings / Observations
 
 1. Top Vendors with Defects: Yombu, Avamm, and Meejo had the highest defect quantities. Yombu had the most impact defects, Avamm had the most rejected 
@@ -367,7 +368,17 @@ For a more interactive experience, explore the full report in Power BI Service u
 
 8. Plant Downtime Impact: Downtime issues were widespread across multiple plants and vendors, not limited to specific locations.
 
+## Recommendations
 
+1. Regularly monitor vendor and plant performance to identify recurring quality issues.
+
+2. Investigate why Savannah and Weaverville experience the highest downtime—whether due to storage, handling, or machine compatibility. Compare New 
+   Britain’s processes with these plants to identify best practices.
+
+3. Use automated monitoring tools to detect equipment issues early. Install sensors and software that track machine performance and product quality in 
+   real time. This will help identify defects before they cause major disruptions, allowing for timely repairs and adjustments.
+
+4. Strengthen quality checks for high-defect vendors, including Yombu, Avamm, Meejo, and others, to reduce defect rates.
 
 
 
