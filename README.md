@@ -306,7 +306,7 @@ This suggests that downtime issues are not isolated to specific plants or vendor
 
 5. **How does the same vendor and material perform across different plants?**
    
- Using Feedfire-Corrugate (the Vendor-Material combination with the highest downtime and highest downtime cost per hour) as a case study, we analyze its performance across different plants. The breakdown of its 
+ Using Feedfire-Corrugate (the Vendor-Material combination with the highest downtime and highest downtime cost per hour) as a case study,its performance across different plants was analyzed. The breakdown of its 
  impact is summarized in the table below:  
 
  ![Feedfire Corrugate Table](https://github.com/Rolakamin/Supplier-Quality-and-Performance/blob/main/feedfire_corrugate_performance.png)
@@ -325,8 +325,16 @@ This suggests that downtime issues are not isolated to specific plants or vendor
   
 **Downtime Cost per Hour:**
 
-Highest: Savannah ($1,277.17/hr) and Weaverville ($1,268.67/hr)
-Lowest: New Britain ($10.17/hr)
+- Highest: Savannah ($1,277.17/hr) and Weaverville ($1,268.67/hr)
+- Lowest: New Britain ($10.17/hr)
+
+**Insights:**
+
+1. **Savannah and Weaverville** had the **highest** downtime hours and costs, suggesting that defects in Corrugate from Feedfire caused significant disruptions at these locations.
+   
+2. **New Britain** had the **lowest** defects, downtime hours, and costs, which might indicate better processes, handling, or a lower impact from material defects at this plant.
+   
+3. Some plants, like **Climax and Barling**, had **moderate** defect counts but relatively high downtime costs, possibly indicating inefficiencies beyond material defects, such as operational delays or process bottlenecks like labor shortages, production scheduling issues, etc.
 
 
 
