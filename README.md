@@ -6,6 +6,18 @@
 
 -[Business Objectives](#business-objectives)
 
+-[Business Problems and Questions](#business-problems-and-questions)
+
+-[Dataset Overview](#dataset-overview)
+
+-[Data Cleaning and Transformation](#data-cleaning-and-transformation)
+
+-[Data Analysis and Visualization](#data-analysis-and-visualization)
+
+-[Key Findings](#key-findings)
+
+-[Recommendations](#recommendations)
+
 ## Project Overview
 Enterprise Manufacturers Ltd has been struggling to assess the quality of materials supplied by vendors and address the impact of defective materials on production processes. The absence of a centralized procurement system has made it challenging to evaluate supplier performance effectively.
 
@@ -351,7 +363,7 @@ For a more interactive experience, explore the full report in Power BI Service u
 [Click here to explore the Supplier Quality and Performance Report in Power BI](https://app.powerbi.com/groups/me/reports/55970148-7261-4d9a-bf05-f9619db7853c/1cfca387820b067d0a39?experience=power-bi)
 
 
-## Key Findings / Observations
+## Key Findings
 
 1. Top Vendors with Defects: Yombu, Avamm, and Meejo had the highest defect quantities. Yombu had the most impact defects, Avamm had the most rejected 
    defects, and Meejo had the most no-impact defects.
